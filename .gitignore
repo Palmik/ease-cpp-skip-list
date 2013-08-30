@@ -1,0 +1,9 @@
+*.un~
+*.swp
+CMakeCache.txt
+CMakeFiles
+CTestTestfile.cmake
+skip_list_bench
+Makefile
+cmake_install.cmake
+tmp
