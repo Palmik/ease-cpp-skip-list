@@ -9,7 +9,8 @@ The `ease-skip-list` library is header only, thus to use it, simply copy the fil
 
 ## ... 
 
-The `benchmarks/` subdirectory contains benchmarks which were adapted from Google's [`cpp-btree`](http://code.google.com/p/cpp-btree/) library.
+Note that the `benchmarks/` subdirectory contains benchmarks which were adapted from Google's [_cpp-btree_](http://code.google.com/p/cpp-btree/) library.
+For convenience (and for now), the subdirectory also includes the _cpp-btree_ library itself.
 
 [*]: Not yet. There are some minor differences.
 
